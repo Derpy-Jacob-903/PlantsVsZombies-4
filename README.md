@@ -1,10 +1,10 @@
 # TUNMPVZ
-植物大战僵尸安卓版 cocos2d-Android
-# 植物大战僵尸
+Plants vs. Zombies Android version cocos2d-Android
+# Plants vs. Zombies
 
-学院课程设计《android游戏开发》的期末作业项目。
+The college curriculum design "android game development" final assignment project.
 
-应该是不会继续更新了，有兴趣的可以继续拓展。
+It should not continue to be updated, and those who are interested can continue to expand.
 
 ![avatar](https://github.com/tunm123/TUNMPVZ/blob/master/img/S81221-231006.jpg)
 ![avatar](https://github.com/tunm123/TUNMPVZ/blob/master/img/S81221-231011.jpg)
